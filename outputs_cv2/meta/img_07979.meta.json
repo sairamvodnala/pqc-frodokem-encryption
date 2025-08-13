@@ -1,0 +1,19 @@
+{
+  "index": 7979,
+  "label_id": 3,
+  "label_name": "cat",
+  "image_path": "outputs_cv2\\images/img_07979_cat.png",
+  "patch_path": "outputs_cv2\\patches/patch_07979_cat.png",
+  "roi": {
+    "x": 2,
+    "y": 12,
+    "w": 16,
+    "h": 16
+  },
+  "image_size": {
+    "w": 32,
+    "h": 32
+  },
+  "patch_size": 16,
+  "policy": "sobel_max_energy"
+}

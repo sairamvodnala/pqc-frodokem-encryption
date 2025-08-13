@@ -1,0 +1,21 @@
+# virtual envs
+venv/
+.venv/
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# data & generated artifacts
+data/
+outputs_cv2/
+*.tar.gz
+*.npz
+*.bin
+*.enc
+*.kem_ct.bin

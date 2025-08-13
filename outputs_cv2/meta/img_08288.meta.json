@@ -1,0 +1,19 @@
+{
+  "index": 8288,
+  "label_id": 5,
+  "label_name": "dog",
+  "image_path": "outputs_cv2\\images/img_08288_dog.png",
+  "patch_path": "outputs_cv2\\patches/patch_08288_dog.png",
+  "roi": {
+    "x": 14,
+    "y": 5,
+    "w": 16,
+    "h": 16
+  },
+  "image_size": {
+    "w": 32,
+    "h": 32
+  },
+  "patch_size": 16,
+  "policy": "sobel_max_energy"
+}

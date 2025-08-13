@@ -1,0 +1,23 @@
+{
+  "patch_png": "patch_07804_dog.png",
+  "shape": {
+    "h": 16,
+    "w": 16,
+    "c": 3
+  },
+  "kem": {
+    "alg": "FrodoKEM-640-AES",
+    "kem_ciphertext_len": 9720,
+    "shared_secret_len": 16
+  },
+  "aead": {
+    "scheme": "AES-256-GCM",
+    "nonce_len": 12,
+    "ciphertext_len": 784
+  },
+  "kdf": {
+    "type": "HKDF-SHA256",
+    "length": 32,
+    "info": "patch-aead-v1"
+  }
+}
